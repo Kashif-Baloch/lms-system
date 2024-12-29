@@ -63,7 +63,7 @@ Ensure you have the following installed on your machine:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lms-system.git
+   git clone https://github.com/Kashif-Baloch/lms-system.git
    ```
 2. Navigate to the project directory:
    ```bash
